@@ -1,246 +1,380 @@
-## RESOURCE DOC - More RPG Servers Worth Your Time
-### read below for details on the servers showcased in Looni's video
-AND music + credits AAANDD computer hardware + editing software :)
+<div align="center">
+
+# More RPG Servers Worth Your Time
+
+### Resource doc for details on the servers showcased in Looni's video
+**AND music + credits AAANDD computer hardware + editing software :)**
 
 [insert video here]
 
-Subscribe rn
+[![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Looniitick)
+[![Discord](https://img.shields.io/badge/The_Crossroads-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Znp8tts32E)
+
+---
 
 ### Table of Contents
-- [Minecraft Servers](#Minecraft-Servers)
-- [Honorable Mentions]
-- [Editing Software & PC Hardware]
-- [Music]
-- [References/Credits]
 
-<p align="center">‎ </p>
 
-# Minecraft Servers
-### In video order.
-please check their websites or discords if IP or version are outdated, and notify me please
+[Minecraft Servers](#-minecraft-servers) | [Honorable Mentions](#-honorable-mentions) | [Editing Software & PC Hardware](#-editing-software--pc-hardware) | [Music](#-music) | [References/Credits](#-referencescredits)
 
-You can find me & more servers @ The Crossroads - https://discord.gg/Znp8tts32E
+---
 
-### Server name - IP
-[details] - “IP+” = can be played on newer versions as well
+</div>
 
-‎<p align="center">‎ </p>
+<br>
 
-## Hypixel SkyBlock - hypixel.net
-### Version: 1.8.9 or 1.21.x (whatever version the utility mods are updated to)
-Discord: https://discord.gg/hypixel
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="30" /> Minecraft Servers
 
-<p align="center">‎ </p>
+> **In video order.**
+> Please check their websites or discords if IP or version are outdated, and notify me please
 
-## Wynncraft - wynncraft.com  [or to support the channel use: looni.wynncraft.com]
-### Version: 1.21.4+
+**Server name - IP**
+[details] - "IP+" = can be played on newer versions as well
+
+---
+
+<br>
+
+## <img src="https://mc-heads.net/avatar/Hypixel/32" /> Hypixel SkyBlock
+
+| | |
+|---|---|
+| **IP** | `hypixel.net` |
+| **Version** | 1.8.9 or 1.21.x (whatever version the utility mods are updated to) |
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hypixel)
+
+---
+
+<br>
+
+## <img src="https://wynncraft.com/favicon.ico" width="32" /> Wynncraft
+
+| | |
+|---|---|
+| **IP** | `wynncraft.com` [or to support the channel use: `looni.wynncraft.com`] |
+| **Version** | 1.21.4+ |
+
 Optionally: refer to latest Wynntils update version
-https://modrinth.com/mod/wynntils/versions
 
-Discord: https://discord.gg/wynncraft
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wynncraft)
+[![Website](https://img.shields.io/badge/Website-wynncraft.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://wynncraft.com/)
+[![Modrinth](https://img.shields.io/badge/Wynntils-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/mod/wynntils/versions)
 
-https://wynncraft.com/
+---
 
-<p align="center">‎ </p>
+<br>
 
-## Faceland - beta.face.land
-### Version: 1.21.8+
-Discord: https://discord.gg/AhAHuXFyy7
+## <img src="https://face.land/favicon.ico" width="32" /> Faceland
 
-https://face.land/  very nice website :)
+| | |
+|---|---|
+| **IP** | `beta.face.land` |
+| **Version** | 1.21.8+ |
 
-<p align="center">‎ </p>
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AhAHuXFyy7)
+[![Website](https://img.shields.io/badge/Website-face.land-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://face.land/)
 
-## Telos Realms - telosrealms.com 
-### Version: 1.21.10 
-Discord: https://discord.gg/qc8swvEY66
+> very nice website :)
 
-https://wiki.telosrealms.com/
+---
 
-<p align="center">‎ </p>
+<br>
 
-## Hyperborea - playhyperborea.com 
-### Version: 1.21.4+
-Discord: https://discord.gg/AzMEMXMz6f
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="32" /> Telos Realms
 
-https://hyperborea.wiki.gg/
+| | |
+|---|---|
+| **IP** | `telosrealms.com` |
+| **Version** | 1.21.10 |
 
-<p align="center">‎ </p>
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qc8swvEY66)
+[![Wiki](https://img.shields.io/badge/Wiki-telosrealms-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.telosrealms.com/)
 
-## Megido Abyss
-### Version: 1.12.2+
-Discord: https://discordapp.com/invite/P95Y75u
+---
 
-https://megidoabyss.wiki.gg/
+<br>
 
-https://www.youtube.com/playlist?list=PLtO9skh_F45O89E7P__e8NbXMZIqf5rty	
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snow-Capped%20Mountain.png" alt="Mountain" width="32" /> Hyperborea
 
-<p align="center">‎ </p>
+| | |
+|---|---|
+| **IP** | `playhyperborea.com` |
+| **Version** | 1.21.4+ |
 
-## Mine in Abyss - survive.mineinabyss.com - if u wanna just fly around: build.mineinabyss.com
-### Version: 1.21.11
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AzMEMXMz6f)
+[![Wiki](https://img.shields.io/badge/Wiki-hyperborea-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://hyperborea.wiki.gg/)
+
+---
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Monster" width="32" /> Megido Abyss
+
+| | |
+|---|---|
+| **IP** | *Check Discord* |
+| **Version** | 1.12.2+ |
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/invite/P95Y75u)
+[![Wiki](https://img.shields.io/badge/Wiki-megidoabyss-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://megidoabyss.wiki.gg/)
+[![YouTube](https://img.shields.io/badge/Playlist-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLtO9skh_F45O89E7P__e8NbXMZIqf5rty)
+
+---
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hole.png" alt="Abyss" width="32" /> Mine in Abyss
+
+| | |
+|---|---|
+| **IP** | `survive.mineinabyss.com` |
+| **Build Server** | `build.mineinabyss.com` (if u wanna just fly around) |
+| **Version** | 1.21.11 |
+
 Use their modpack for the best experience! Performance + visual improvements (ex. it was how I got those massive wide shots of the Abyss)
 
-https://modrinth.com/modpack/mineinabyss-modpack & https://outline.mineinabyss.com/s/home/doc/modpack-VbxUNQ4ztj
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mine-in-abyss-385252444734619680)
+[![Modrinth](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/mineinabyss-modpack)
+[![Docs](https://img.shields.io/badge/Modpack_Guide-Docs-blue?style=flat-square&logo=readthedocs&logoColor=white)](https://outline.mineinabyss.com/s/home/doc/modpack-VbxUNQ4ztj)
 
-Discord: https://discord.gg/mine-in-abyss-385252444734619680
+---
 
-<p align="center">‎ </p>
+<br>
 
-## Origin Realms - play.originrealms.com
-### Version: 1.21+
-Discord: https://discord.gg/originrealms
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="32" /> Origin Realms
 
-https://www.youtube.com/@playoriginrealms
+| | |
+|---|---|
+| **IP** | `play.originrealms.com` |
+| **Version** | 1.21+ |
 
-<p align="center">‎ </p>
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/originrealms)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@playoriginrealms)
 
-## Monumenta - server.playmonumenta.com
-### Version: 1.20.4+ –however :
-Server’s Resource Pack requires either Optifine or certain Fabric mods w/ certain configs.
-https://monumenta.wiki.gg/wiki/Monumenta_Resource_Packs
+---
 
-To easily get started, officially recommended modpack here: WIP. 
+<br>
 
-Discord: https://discord.gg/Vc8Z8C33hN
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Swords" width="32" /> Monumenta
 
-https://playmonumenta.com/
+| | |
+|---|---|
+| **IP** | `server.playmonumenta.com` |
+| **Version** | 1.20.4+ |
 
-https://monumenta.wiki.gg/
+> **Note:** Server's Resource Pack requires either Optifine or certain Fabric mods w/ certain configs.
+> To easily get started, officially recommended modpack here: WIP.
 
-https://www.youtube.com/@monumentammo
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Vc8Z8C33hN)
+[![Website](https://img.shields.io/badge/Website-playmonumenta.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://playmonumenta.com/)
+[![Wiki](https://img.shields.io/badge/Wiki-monumenta-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://monumenta.wiki.gg/)
+[![Resource Packs](https://img.shields.io/badge/Resource_Packs-Guide-orange?style=flat-square&logo=bookstack&logoColor=white)](https://monumenta.wiki.gg/wiki/Monumenta_Resource_Packs)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@monumentammo)
 
-<p align="center">‎ </p>
+---
 
+<br>
 
-## In-development:
-<p align="center">‎ </p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="32" /> In-Development Servers
+
+<br>
 
 ### Spellforged
 
-https://discord.gg/jJVEYpW
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jJVEYpW)
+[![Website](https://img.shields.io/badge/Website-spellforged-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://spellforged.github.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-@novalescent-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@novalescent)
 
-https://spellforged.github.io/
-
-https://www.youtube.com/@novalescent
+<br>
 
 ### Isles 2.0
 
-https://discord.gg/NnZREhEj6j
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/NnZREhEj6j)
+[![Website](https://img.shields.io/badge/Website-skyblockisles.net-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://skyblockisles.net/)
+[![YouTube](https://img.shields.io/badge/YouTube-@skyblockisles-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skyblockisles)
 
-https://skyblockisles.net/
+---
 
-https://www.youtube.com/@skyblockisles
+<br>
 
-<p align="center">‎ </p>
-<p align="center">‎ </p>
+<a id="honorable-mentions"></a>
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clap" width="30" /> Honorable Mentions
 
-# Honorable Mentions ~ Servers:
-Find updated version info & other details by joining their discord
+> Find updated version info & other details by joining their discord
 
-### Void Tales - playable [requires modpack due to resourcepack reasons] (they’re trying to get rid of this req)
+<br>
 
-Discord: https://discord.gg/k2bKBWR4UG
+## Servers
 
-https://www.youtube.com/@VoidTales0
+<br>
 
-<p align="center">‎ </p>
+### Void Tales
+`playable` — requires modpack due to resourcepack reasons (they're trying to get rid of this req)
 
-###  Minebox - playable + offers many translations 
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/k2bKBWR4UG)
+[![YouTube](https://img.shields.io/badge/YouTube-@VoidTales0-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@VoidTales0)
 
-https://discord.gg/y37M2ncZ6d
+<br>
 
-https://minebox.co/
+### Minebox
+`playable` — offers many translations
 
-<p align="center">‎ </p>
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/y37M2ncZ6d)
+[![Website](https://img.shields.io/badge/Website-minebox.co-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://minebox.co/)
 
-### FishOnMC - playable | Fishing Simulator
+<br>
 
-https://discord.gg/8japBD4xb8
+### FishOnMC
+`playable` — Fishing Simulator
 
-https://www.youtube.com/@FishOnMinecraft
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8japBD4xb8)
+[![Wiki](https://img.shields.io/badge/Wiki-fishonmc-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.fishonmc.net/)
+[![YouTube](https://img.shields.io/badge/YouTube-@FishOnMinecraft-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FishOnMinecraft)
 
-https://wiki.fishonmc.net/
+<br>
 
-<p align="center">‎ </p>
+### ArcanimaFable
+`in-development` — inspired by DragaliaLost
 
-### ArcanimaFable - in-development | inspired by DragaliaLost
+> Discord community WIP
 
-Discord community WIP
+<br>
 
-<p align="center">‎ </p>
+### Nuvguard Heroes
+`playable` — MOBA PvP Server
 
-### Nuvguard Heroes - playable | MOBA PvP Server
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/H9pEuPNYBj)
+[![Website](https://img.shields.io/badge/Website-nuvguard.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://nuvguard.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-@Nuvguard-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Nuvguard)
 
-https://discord.gg/H9pEuPNYBj
+<br>
 
-https://nuvguard.com/
+### Shown but not mentioned:
 
-https://www.youtube.com/@Nuvguard
+| Server | Type | Discord |
+|--------|------|---------|
+| **Nova Nexus** | First Person Shooter (not RPG) | [![Discord](https://img.shields.io/badge/Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/JVj5CsmD7U) |
+| **Gensokyo Reimagined** | Touhou MMORPG | [![Discord](https://img.shields.io/badge/Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/DYdPYaH8vN) |
 
-<p align="center">‎ </p>
-<p align="center">‎ </p>
+---
 
-### (shown but not mentioned):
-Nova Nexus - not RPG. first person shooter - https://discord.gg/JVj5CsmD7U
+<br>
 
-Gensokyo Reimagined - Touhou MMORPG server - https://discord.gg/DYdPYaH8vN
+## Maps
 
-# Honorable Mentions ~ Maps:
+<br>
 
-## Final Paradox
-https://www.youtube.com/watch?v=5FmBb4SLrik
-https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/3166897-ctm-final-paradox-dlc-nightmare-awakening-map
+### Final Paradox
 
-## Fool’s Errand
+[![YouTube](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5FmBb4SLrik)
+[![Download](https://img.shields.io/badge/Download-Minecraft_Forum-62B47A?style=flat-square&logo=modrinth&logoColor=white)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/3166897-ctm-final-paradox-dlc-nightmare-awakening-map)
 
-https://discord.gg/uwZkbB9hBM
-https://www.planetminecraft.com/project/fool-s-errand-the-curse-of-binding-a-soulslike-adventure-map/
+<br>
 
-## ANTITHEIST
+### Fool's Errand
 
-https://www.planetminecraft.com/project/antitheist/
-https://discord.gg/2U5rxzNA6p
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uwZkbB9hBM)
+[![Planet Minecraft](https://img.shields.io/badge/Download-Planet_Minecraft-3b5998?style=flat-square&logo=planet&logoColor=white)](https://www.planetminecraft.com/project/fool-s-errand-the-curse-of-binding-a-soulslike-adventure-map/)
 
-## Undertale in Minecraft
-https://www.youtube.com/watch?v=Hh8I23zEBsQ
-https://modrinth.com/modpack/undertale
+<br>
 
-## ATMOS
-https://modrinth.com/modpack/atmos_roguelike
+### ANTITHEIST
 
-^ they use a modpack for easier instance setup. Doesn't actually require mods but does that really matter nowadays?
-https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/2U5rxzNA6p)
+[![Planet Minecraft](https://img.shields.io/badge/Download-Planet_Minecraft-3b5998?style=flat-square&logo=planet&logoColor=white)](https://www.planetminecraft.com/project/antitheist/)
 
-<p align="center">‎ </p>
+<br>
 
-### EDITING SOFTWARE: Davinci Resolve 18.5 Studio (paid version)
+### Undertale in Minecraft
 
-### Important Minecraft mods for the creation of this video:
+[![YouTube](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Hh8I23zEBsQ)
+[![Modrinth](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/undertale)
 
-- Flashback for the camera renders
-- Sodium + Iris for shaders -> Complementary Reimagined
+<br>
 
-### RECORDING: OBS
-Main recording profile: 60fps 1440p 20s replay buffer
+### ATMOS
 
-Extra profile for recording voice overs in WAV, encoding: PCM 32bit floating point
+> ^ they use a modpack for easier instance setup. Doesn't actually require mods but does that really matter nowadays?
 
-### Mic: AT2035. 
-XLR w/ U-PHORIA UMC22
+[![Modrinth](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/atmos_roguelike)
+[![Planet Minecraft](https://img.shields.io/badge/Download-Planet_Minecraft-3b5998?style=flat-square&logo=planet&logoColor=white)](https://www.planetminecraft.com/project/atmos-rougelike-rougelite/)
 
-Various audio effects and filters used through, Equalizer APO and Davinci Resolve.
+---
 
-### PC: above average
-- GPU: Nvidia 5070
-- CPU: AMD Ryzen 9 7900
-- 32gb ram (i need more but it costs a bajillion dollars)
+<br>
 
-<p align="center">‎ </p>
+<a id="editing-software--pc-hardware"></a>
 
-# Music
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper" width="30" /> Editing Software & PC Hardware
+
+<br>
+
+## Software
+
+| Category | Details |
+|----------|---------|
+| **Editing Software** | DaVinci Resolve 18.5 Studio (paid version) |
+| **Recording** | OBS |
+| **Main Recording Profile** | 60fps 1440p 20s replay buffer |
+| **Voice Over Profile** | WAV, encoding: PCM 32bit floating point |
+
+<br>
+
+## Important Minecraft Mods
+
+| Mod | Purpose |
+|-----|---------|
+| **Flashback** | Camera renders |
+| **Sodium + Iris** | Shaders → Complementary Reimagined |
+
+<br>
+
+## Hardware
+
+| Component | Specification |
+|-----------|---------------|
+| **GPU** | Nvidia 5070 |
+| **CPU** | AMD Ryzen 9 7900 |
+| **RAM** | 32gb (i need more but it costs a bajillion dollars) |
+
+<br>
+
+## Audio Setup
+
+| Equipment | Details |
+|-----------|---------|
+| **Microphone** | AT2035 |
+| **Interface** | XLR w/ U-PHORIA UMC22 |
+| **Processing** | Various audio effects and filters used through Equalizer APO and DaVinci Resolve |
+
+---
+
+<br>
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="30" /> Music
+
 ### in order
 
+*Coming soon...*
 
+---
 
+<br>
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Credits" width="30" /> References/Credits
+
+*Coming soon...*
+
+---
+
+<div align="center">
+
+<br>
+
+Made with :heart: by Looni
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Looniitick/More-RPG-Servers-Worth-Your-Time)
+
+</div>
