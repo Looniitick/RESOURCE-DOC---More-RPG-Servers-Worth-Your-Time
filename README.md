@@ -1,13 +1,12 @@
-# RESOURCE DOC - More RPG Servers Worth Your Time
+## RESOURCE DOC - More RPG Servers Worth Your Time
 ### read below for details on the servers showcased in Looni's video
 AND music + credits AAANDD computer hardware + editing software :)
+
 [insert video here]
 
 Subscribe rn
 
-<p align="center">‎ </p>
-<p align="center">‎ </p>
-<p align="center">‎ </p>
+‎<p align="center">‎ </p>
 
 # Minecraft Servers
 ### In video order.
