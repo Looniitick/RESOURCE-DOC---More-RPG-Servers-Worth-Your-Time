@@ -78,9 +78,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AhAHuXFyy7)
 
-[![Website](https://img.shields.io/badge/Website-face.land-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://face.land/)
-
-> very nice website :)
+[![Website](https://img.shields.io/badge/Website-face.land-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://face.land/) ‎  very nice website :)
 
 <br>
 
