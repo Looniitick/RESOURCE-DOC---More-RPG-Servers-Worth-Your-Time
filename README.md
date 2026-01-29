@@ -50,7 +50,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hypixel)
 
----
+<br>
 
 <br>
 
@@ -65,7 +65,7 @@
 
 [![Website](https://img.shields.io/badge/Website-wynncraft.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://wynncraft.com/)
 
----
+<br>
 
 <br>
 
@@ -82,7 +82,7 @@
 
 > very nice website :)
 
----
+<br>
 
 <br>
 
@@ -97,7 +97,7 @@
 
 [![Wiki](https://img.shields.io/badge/Wiki-telosrealms-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.telosrealms.com/)
 
----
+<br>
 
 <br>
 
@@ -112,7 +112,7 @@
 
 [![Wiki](https://img.shields.io/badge/Wiki-hyperborea-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://hyperborea.wiki.gg/)
 
----
+<br>
 
 <br>
 
@@ -129,7 +129,7 @@
 
 [![YouTube](https://img.shields.io/badge/Playlist-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLtO9skh_F45O89E7P__e8NbXMZIqf5rty)
 
----
+<br>
 
 <br>
 
@@ -149,7 +149,7 @@ Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the be
 
 [![Docs](https://img.shields.io/badge/Modpack_Guide-Docs-blue?style=flat-square&logo=readthedocs&logoColor=white)](https://outline.mineinabyss.com/s/home/doc/modpack-VbxUNQ4ztj)
 
----
+<br>
 
 <br>
 
@@ -164,7 +164,7 @@ Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the be
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@playoriginrealms)
 
----
+<br>
 
 <br>
 
@@ -188,6 +188,8 @@ Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the be
 [![Wiki](https://img.shields.io/badge/Wiki-monumenta-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://monumenta.wiki.gg/)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@monumentammo)
+
+<br>
 
 ---
 
@@ -214,6 +216,8 @@ Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the be
 [![Website](https://img.shields.io/badge/Website-skyblockisles.net-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://skyblockisles.net/)
 
 [![YouTube](https://img.shields.io/badge/YouTube-@skyblockisles-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skyblockisles)
+
+<br>
 
 ---
 
@@ -280,6 +284,8 @@ https://discord.gg/H9pEuPNYBj
 
 **Gensokyo Reimagined** - Touhou MMORPG https://discord.gg/DYdPYaH8vN
 
+<br>
+
 ---
 
 <br>
@@ -327,13 +333,15 @@ https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 
 > Modpack download is just for easier instance setup. Map technically doesnt require mods :) (the advantage is server map hosting)
 
+<br>
+
 ---
 
 <br>
 
 <a id="editing-software--pc-hardware"></a>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper" width="30" /> Editing Software & PC Hardware
+# Editing Software & PC Hardware
 
 <br>
 
@@ -375,6 +383,8 @@ https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 | **Interface** | XLR w/ U-PHORIA UMC22 |
 | **Processing** | Various audio effects and filters used through Equalizer APO and DaVinci Resolve |
 
+<br>
+
 ---
 
 <br>
@@ -385,6 +395,8 @@ https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 
 *Coming soon...*
 
+<br>
+
 ---
 
 <br>
@@ -392,6 +404,8 @@ https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 # References/Credits
 
 *Coming soon...*
+
+<br>
 
 ---
 
