@@ -50,6 +50,8 @@
 
 https://discord.gg/hypixel
 
+[![Website](https://img.shields.io/badge/Website-Hypixel-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://hypixel.net/)
+
 <br>
 
 <br>
@@ -63,7 +65,7 @@ https://discord.gg/hypixel
 
 https://discord.gg/wynncraft
 
-[![Website](https://img.shields.io/badge/Website-wynncraft.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://wynncraft.com/)
+[![Website](https://img.shields.io/badge/Website-Wynncraft-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://wynncraft.com/)
 
 <br>
 
@@ -78,7 +80,7 @@ https://discord.gg/wynncraft
 
 https://discord.gg/AhAHuXFyy7
 
-[![Website](https://img.shields.io/badge/Website-face.land-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://face.land/) ‎  very nice website :)
+[![Website](https://img.shields.io/badge/Website-Faceland-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://face.land/) ‎  very nice website :)
 
 <br>
 
@@ -93,7 +95,7 @@ https://discord.gg/AhAHuXFyy7
 
 https://discord.gg/qc8swvEY66
 
-[![Wiki](https://img.shields.io/badge/Wiki-telos‎realms-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.telosrealms.com/)
+[![Wiki](https://img.shields.io/badge/Wiki-TelosRealms-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.telosrealms.com/)
 
 <br>
 
@@ -108,7 +110,7 @@ https://discord.gg/qc8swvEY66
 
 https://discord.gg/AzMEMXMz6f
 
-[![Wiki](https://img.shields.io/badge/Wiki-hyperborea-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://hyperborea.wiki.gg/)
+[![Wiki](https://img.shields.io/badge/Wiki-Hyperborea-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://hyperborea.wiki.gg/)
 
 <br>
 
@@ -160,7 +162,7 @@ https://mineinabyss.com/
 
 https://discord.gg/originrealms
 
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@playoriginrealms)
+[![YouTube](https://img.shields.io/badge/YouTube-OriginRealms-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@playoriginrealms)
 
 <br>
 
@@ -184,7 +186,7 @@ https://discord.gg/Vc8Z8C33hN
 https://playmonumenta.com/
 
 [![Wiki](https://img.shields.io/badge/Wiki-monumenta-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://monumenta.wiki.gg/) ‎ 
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@monumentammo)
+[![YouTube](https://img.shields.io/badge/YouTube-Monumenta-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@monumentammo)
 
 <br>
 
