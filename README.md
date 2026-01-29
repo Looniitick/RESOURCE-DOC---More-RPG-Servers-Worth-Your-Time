@@ -482,8 +482,92 @@ https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 <br>
 
 # References/Credits
+### not in order
+> I tracked a bunch but not everything. Leave a YouTube comment with a timestamp if there’s something you’re looking for that’s not here.
 
-*Coming soon...*
+Hellcastle & Tyler<br>
+[The Skyblock Isles Experience](https://www.youtube.com/watch?v=5zD6ZXxvFq0)
+
+Sirdeathvids<br>
+[Was Skyblock Isles the BEST MMORPG Server in Minecraft?](https://www.youtube.com/watch?v=NqE5CSEdy-w)
+
+Timedeo<br>
+[how i discovered hypixels craziest exploit](https://www.youtube.com/watch?v=A1jMGpaFH7U)
+
+Technoblade<br>
+[I Became the Mayor of Skyblock](https://www.youtube.com/watch?v=i3NXPk4ROao)
+[the deadliest sword in skyblock](https://www.youtube.com/watch?v=T2mwbXInQCI)
+[Skyblock: Potato War 3 (FINALE)](https://www.youtube.com/watch?v=09CeBwGbCeg)
+
+Dragalia Lost<br>
+[Dragalia Lost - Tartarus's Wrath: Master (Co-Op First Clear)](https://www.youtube.com/watch?v=APb-xbxUJUc)<br>
+
+Metroidhunter<br>
+[when the RPG has fishing](https://www.youtube.com/watch?v=_sh4oONxlQQ) <br>
+
+Origin Realms<br>
+[Origin Realms Trailer](https://www.youtube.com/watch?v=Rs6_cbvLyJY)<br>
+[Origin Realms: Blight & Fight Update](https://www.youtube.com/watch?v=fhYiHUNMVfo)<br>
+[The Aether Without Mods](https://www.youtube.com/watch?v=jnOqC-TLhaU)
+
+PewDiePie<br>
+[I'm Done With Minecraft Now.. - Minecraft Hardcore #17](https://youtu.be/dBp9TNkJ_hU?si=Teq9v-jIwYkb5ZOo)
+
+Azpect <br>
+[Can I Survive 1 Year on Minecraft's Deadliest Server?](https://youtu.be/qeXIVVnb6Vc?si=uH4Eb1wA2hFBdaC7)
+
+FitMC<br>
+[I Travelled 2b2t's DIAGONAL Minecraft Highways](https://youtu.be/tHiW1t-0sNQ?si=Q37Jtey9MAcOG1ps)<br>
+[2b2t's History of Kings](https://youtu.be/vtuSXLM8TQE?si=MFDDFcXnVJjTqEKD)
+
+
+Yuso - [2b2t.org summer crystal pvp](https://www.youtube.com/watch?v=0QUpspaDTNo)<br>
+
+Azeau<br>
+[Wynncraft: SHARPSHOOTER DIVZER](https://www.youtube.com/watch?v=DGJmJ3vvTBU)
+
+The Horizon<br>
+[Crashing a Pay-to-win Server With a Crafting Table - Loverfella](https://youtu.be/Q2xYoSG7wbg?si=OlBEjWFErW3nMjHf)
+
+Thrillhouse2.0<br>
+[12 Best Minecraft 1.21 Data Packs/Mods](https://www.youtube.com/watch?v=ZwmogE_9xmQ)
+
+AJBK<br>
+[100 Days on the BEST Skyblock Server For Minecraft Bedrock Edition (CraftersMC)](https://www.youtube.com/watch?v=dTyPXntjOvA)<br>
+https://craftersmc.net/	<br>
+
+Monumenta <br>
+[Monumenta: The Architect's Ring Release Trailer](https://www.youtube.com/watch?v=eQTrxc7Adv8)<br>
+[Monumenta OST -  Vesperidys Music Suite (Zenith Floor 3 Boss)](https://www.youtube.com/watch?v=js1Bn4qP9KA)<br>
+[Between Two Wools Special Extension 1 - FloweyTF *Dev Interview*](https://www.youtube.com/watch?v=fRObUF0mVBU)
+
+Spellforged<br>
+[PROJECT Spellforged - Combat Showcase: Class Specializations](https://www.youtube.com/watch?v=wRbPtMJWmSg)<br>
+[PROJECT Spellforged - Soundtrack Showcase: Ambience](https://www.youtube.com/watch?v=X0hGa8ebDBQ)<br>
+[PROJECT Spellforged - Specialization Trailer: Slayer](https://www.youtube.com/watch?v=CBvSwm8qpK4)
+
+Final Paradox<br>
+[Minecraft Trailer - Final Paradox - FULL CTM - ENGLISH DOWNLOAD](https://youtu.be/roFGc0ROa2Y?si=oc1Vu0GhA_-7LjF3)
+
+
+Clouser - Undertale<br>
+[I Coded Undertale in Minecraft](https://www.youtube.com/watch?v=Hh8I23zEBsQ)
+
+MinuteTech<br>
+[I Survived Minecraft's Deadliest Dungeon](https://www.youtube.com/watch?v=zrbinqDF44A)<br>
+
+Hypixel<br>
+[Hypixel Minecraft Server Trailer (2024)](https://www.youtube.com/watch?v=xFyKlJi55zg)<br>
+[Hypixel SkyBlock - Foraging Trailer](https://www.youtube.com/watch?v=r9pQ8sMZcoA)<br>
+[Hypixel SkyBlock - The Rift: Mountaintop](https://www.youtube.com/watch?v=h86vfXlUdIo)<br>
+
+
+**Made in Abyss** - clips from Episode 1<br>
+[MADE IN ABYSS: Dawn of the Deep Soul Official Trailer 2](https://www.youtube.com/watch?v=Tc-A-PnHzdY)
+
+[Yakuza Fishing Yakuza 0 - Fishing Minigame](https://www.youtube.com/watch?v=mhuxCPPyNqo)
+
+[BEGONE THOT](https://www.youtube.com/watch?v=Kbx7m2qVVA0)
 
 <br>
 
