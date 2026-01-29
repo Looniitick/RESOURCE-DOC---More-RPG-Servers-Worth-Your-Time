@@ -8,6 +8,15 @@ Subscribe rn
 
 ‎<p align="center">‎ </p>
 
+### Table of Contents
+- Minecraft Servers
+- Honorable Mentions
+- Editing Software & PC Hardware
+- Music
+- References/Credits
+
+<p align="center">‎ </p>
+
 # Minecraft Servers
 ### In video order.
 please check their websites or discords if IP or version are outdated, and notify me please
@@ -221,12 +230,19 @@ Main recording profile: 60fps 1440p 20s replay buffer
 Extra profile for recording voice overs in WAV, encoding: PCM 32bit floating point
 
 ### Mic: AT2035. 
-Various audio effects and filters used through both OBS and Davinci Resolve.
+XLR w/ U-PHORIA UMC22
+
+Various audio effects and filters used through, Equalizer APO and Davinci Resolve.
 
 ### PC: above average
 - GPU: Nvidia 5070
 - CPU: AMD Ryzen 9 7900
 - 32gb ram (i need more but it costs a bajillion dollars)
+
+<p align="center">‎ </p>
+
+# Music
+### in order
 
 
 
