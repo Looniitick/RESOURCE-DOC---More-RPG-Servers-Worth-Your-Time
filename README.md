@@ -15,10 +15,8 @@ please check their websites or discords if IP or version are outdated, and notif
 
 You can find me & more servers @ The Crossroads - https://discord.gg/Znp8tts32E
 
-‎<p align="center">‎ </p>
-
-## Server name - IP
-### [details] - “IP+” = can be played on newer versions as well
+### Server name - IP
+[details] - “IP+” = can be played on newer versions as well
 
 ‎<p align="center">‎ </p>
 
@@ -34,6 +32,7 @@ Optionally: refer to latest Wynntils update version
 https://modrinth.com/mod/wynntils/versions
 
 Discord: https://discord.gg/wynncraft
+
 https://wynncraft.com/
 
 <p align="center">‎ </p>
@@ -41,6 +40,7 @@ https://wynncraft.com/
 ## Faceland - beta.face.land
 ### Version: 1.21.8+
 Discord: https://discord.gg/AhAHuXFyy7
+
 https://face.land/  very nice website :)
 
 <p align="center">‎ </p>
@@ -48,6 +48,7 @@ https://face.land/  very nice website :)
 ## Telos Realms - telosrealms.com 
 ### Version: 1.21.10 
 Discord: https://discord.gg/qc8swvEY66
+
 https://wiki.telosrealms.com/
 
 <p align="center">‎ </p>
@@ -55,6 +56,8 @@ https://wiki.telosrealms.com/
 ## Hyperborea - playhyperborea.com 
 ### Version: 1.21.4+
 Discord: https://discord.gg/AzMEMXMz6f
+
+https://hyperborea.wiki.gg/
 
 <p align="center">‎ </p>
 
