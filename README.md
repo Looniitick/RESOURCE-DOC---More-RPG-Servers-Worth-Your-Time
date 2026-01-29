@@ -201,7 +201,7 @@ https://playmonumenta.com/
 https://discord.gg/jJVEYpW
 
 [![Website](https://img.shields.io/badge/Website-spellforged-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://spellforged.github.io/) ‎ 
-[![YouTube](https://img.shields.io/badge/YouTube-@novalescent-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@novalescent)
+[![YouTube](https://img.shields.io/badge/YouTube-@Novalescent-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@novalescent)
 
 <br>
 
@@ -210,7 +210,7 @@ https://discord.gg/jJVEYpW
 https://discord.gg/NnZREhEj6j
 
 [![Website](https://img.shields.io/badge/Website-skyblockisles.net-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://skyblockisles.net/) ‎ 
-[![YouTube](https://img.shields.io/badge/YouTube-@skyblockisles-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skyblockisles)
+[![YouTube](https://img.shields.io/badge/YouTube-@SkyblockIsles-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skyblockisles)
 
 <br>
 
