@@ -247,7 +247,8 @@ Find IP and updated version info + other details by joining their discords
 ### FishOnMC - play.fishonmc.net
 `playable` — Fishing Simulator
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8japBD4xb8) ‎ 
+https://discord.gg/8japBD4xb8
+
 [![Wiki](https://img.shields.io/badge/Wiki-fishonmc-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.fishonmc.net/) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-@FishOnMinecraft-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FishOnMinecraft)
 
@@ -256,7 +257,7 @@ Find IP and updated version info + other details by joining their discords
 ### ArcanimaFable
 `in-development` — inspired by DragaliaLost
 
-> Discord community WIP
+https://discord.gg/UBaMwkVvB5
 
 <br>
 
