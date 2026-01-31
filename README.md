@@ -5,7 +5,7 @@
 ### Resource doc for details on the servers showcased in Looni's video
 **AND music + credits AAANDD computer hardware + editing software :)**
 
-[insert video here]
+https://www.youtube.com/watch?v=4Y-TN0VwPd0
 
 [![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Looniitick) ‎ 
 [![Discord](https://img.shields.io/badge/The_Crossroads-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Znp8tts32E)
@@ -486,6 +486,11 @@ https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 # References/Credits
 ### not in order
 > I tracked a bunch but not everything. Leave a YouTube comment with a timestamp if there’s something you’re looking for that’s not here.
+
+Thumbnails: one by me and an edit by yuri @verisimillitude
+<img width="2560" height="1440" alt="more rpg minecraft worth playing" src="https://github.com/user-attachments/assets/13b10208-6983-4b82-b034-5d24d2a0b3a9" />
+<img width="1920" height="1080" alt="FINAL more rpg minecraft servers worth playing" src="https://github.com/user-attachments/assets/e9d03f21-1034-4d5f-a057-c658e7c0f76d" />
+
 
 Hellcastle & Tyler<br>
 [The Skyblock Isles Experience](https://www.youtube.com/watch?v=5zD6ZXxvFq0)
