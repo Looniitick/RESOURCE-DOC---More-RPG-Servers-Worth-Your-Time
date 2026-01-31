@@ -202,7 +202,9 @@ https://playmonumenta.com/
 
 https://discord.gg/jJVEYpW
 
-[![Website](https://img.shields.io/badge/Website-spellforged-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://spellforged.github.io/) ‎ 
+Apply for Alpha -> [here](https://docs.google.com/forms/d/e/1FAIpQLSf2nXxtQG7K8u0UkpsrU4Jupw5e3a_7Uus9brtvKaIBYbJ-Cw/viewform?usp=sf_link) <-
+
+[![Website](https://img.shields.io/badge/Website-Spellforged-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://spellforged.github.io/) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-@Novalescent-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@novalescent)
 
 <br>
@@ -211,7 +213,7 @@ https://discord.gg/jJVEYpW
 
 https://discord.gg/NnZREhEj6j
 
-[![Website](https://img.shields.io/badge/Website-skyblockisles.net-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://skyblockisles.net/) ‎ 
+[![Website](https://img.shields.io/badge/Website-SkyblockIsles.net-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://skyblockisles.net/) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-@SkyblockIsles-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skyblockisles)
 
 <br>
@@ -587,7 +589,7 @@ Hypixel<br>
 
 <br>
 
-Format by Faceguy - Information provided by Looni
+Feel free to message me on Discord @Looni if youre looking for something
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Looniitick/More-RPG-Servers-Worth-Your-Time)
 
