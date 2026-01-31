@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=4Y-TN0VwPd0
 |---|---|
 | **IP** | `hypixel.net` |
 | **Version** | 1.8.9 or 1.21.x |
-> any version works. use whatever version that has the mods you need
+> any version works right now but theyre fully updating to 1.21+ in late February. you can play on any version you want, but it's recommended you use whatever version has the mods you want
 
 https://discord.gg/hypixel
 
