@@ -289,7 +289,7 @@ https://discord.gg/H9pEuPNYBj
 
 <br>
 
-### Final Paradox
+### Final Paradox - 1.16.5
 
 [![YouTube](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5FmBb4SLrik)
 
@@ -297,7 +297,7 @@ https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/3166
 
 <br>
 
-### Fool's Errand
+### Fool's Errand - 1.20.2
 
 https://discord.gg/uwZkbB9hBM
 
@@ -305,7 +305,7 @@ https://www.planetminecraft.com/project/fool-s-errand-the-curse-of-binding-a-sou
 
 <br>
 
-### ANTITHEIST
+### ANTITHEIST - 1.21.5
 
 https://discord.gg/2U5rxzNA6p
 
@@ -313,7 +313,7 @@ https://www.planetminecraft.com/project/antitheist/
 
 <br>
 
-### Undertale in Minecraft
+### Undertale in Minecraft - Modpack [only Part 1 of 6]
 
 [![YouTube](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Hh8I23zEBsQ)
 
@@ -321,7 +321,7 @@ https://modrinth.com/modpack/undertale
 
 <br>
 
-### ATMOS
+### ATMOS - 1.21.4
 [![YouTube](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=hNQaHI_sUTk)
 
 https://modrinth.com/modpack/atmos_roguelike
